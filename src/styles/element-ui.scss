@@ -1,0 +1,40 @@
+ //to reset element-ui default css
+.el-upload {
+  input[type="file"] {
+    display: none !important;
+  }
+}
+
+.el-upload__input {
+  display: none;
+}
+
+//暂时性解决diolag 问题 https://github.com/ElemeFE/element/issues/2461
+.el-dialog {
+  transform: none;
+  left: 0;
+  position: relative;
+  margin: 0 auto;
+  border-radius: 15px!important;
+}
+
+//element ui upload
+.upload-container {
+  .el-upload {
+    width: 100%;
+    .el-upload-dragger {
+      width: 100%;
+      height: 200px;
+    }
+  }
+}
+
+//导航栏背景颜色
+.el-menu{
+  background: -webkit-gradient(linear, left bottom, left top, from(#4F2F52), color-stop(88%, #2A3363))!important;
+  background: linear-gradient(0deg, #4F2F52 0%, #2A3363 88%)!important;
+}
+.el-submenu__title,.submenu-title-noDropdown,.el-menu-item,.navbar,.is-active,.el-menu--inline{
+ background: transparent!important;
+}
+

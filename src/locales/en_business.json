@@ -1,0 +1,28 @@
+{
+	"topic": {
+		"topicName": "主题名称",
+		"commentLogs": "详细日志",
+		"name": "名称",
+		"uuid": "主键id",
+		"topicName": "主题名称",
+		"commentLogs": "详细日志",
+		"addnew" : "New Topic",
+		"edit": "Edit Topic",
+		"delete_confirm": "Are you sure to delete Topic [ {0} ] ?",
+		"delete_success": "Topic [ {0} ] has been delete successfully"
+	},
+	"commentlog": {
+		"commentDate": "评论时间",
+		"content": "内容",
+		"commonetUser": "评论人",
+		"name": "名称",
+		"uuid": "主键id",
+		"commentDate": "评论时间",
+		"content": "内容",
+		"commonetUser": "评论人",
+		"addnew" : "New CommentLog",
+		"edit": "Edit CommentLog",
+		"delete_confirm": "Are you sure to delete CommentLog [ {0} ] ?",
+		"delete_success": "CommentLog [ {0} ] has been delete successfully"
+	}
+}

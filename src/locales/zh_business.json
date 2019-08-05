@@ -1,0 +1,28 @@
+{
+	"topic": {
+		"topicName": "主题名称",
+		"commentLogs": "详细日志",
+		"name": "名称",
+		"uuid": "主键id",
+		"topicName": "主题名称",
+		"commentLogs": "详细日志",
+		"addnew" : "新建论坛主题",
+		"edit": "编辑论坛主题",
+		"delete_confirm": "确实要永久性删除论坛主题类 [ {0} ] 吗？",
+		"delete_success": "论坛主题类 [ {0} ] 已被成功删除"
+	},
+	"commentlog": {
+		"commentDate": "评论时间",
+		"content": "内容",
+		"commonetUser": "评论人",
+		"name": "名称",
+		"uuid": "主键id",
+		"commentDate": "评论时间",
+		"content": "内容",
+		"commonetUser": "评论人",
+		"addnew" : "新建评论详细日志",
+		"edit": "编辑评论详细日志",
+		"delete_confirm": "确实要永久性删除评论详细日志类 [ {0} ] 吗？",
+		"delete_success": "评论详细日志类 [ {0} ] 已被成功删除"
+	}
+}
